@@ -9,7 +9,7 @@ params:
   # Conference info
   Name: "SpatialEpi@ACM SIGSPATIAL 2022"
   Description: "International Workshop on Spatial Computing for Epidemiology@ACM SIGSPATIAL 2022"
-  Date: "November 2, 2022, Pacific Time"
+  Date: "November 1, 2022, Pacific Time"
   # Price: "Only $100" # If your event is free, just comment this line
   Venue: "TBA"
   Address: "TBA"
@@ -81,7 +81,7 @@ params:
     submission: "September 15, 2022 (anywhere on earth) (extended)"
     notification: "October 15, 2022 (anywhere on earth)"
     camera: "To be announced"
-    workshopdate: "November 02, 2022 (anywhere on earth)"
+    workshopdate: "November 01, 2022 (anywhere on earth)"
     submissionsite: "https://easychair.org/my/conference?conf=spatialepi21"
 
   speakers:
