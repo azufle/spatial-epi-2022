@@ -78,11 +78,11 @@ params:
     pc_member: ["To be announced"]
 
   deadline:
-    submission: "September 15, 2022 (anywhere on earth) (extended)"
-    notification: "October 15, 2022 (anywhere on earth)"
-    camera: "To be announced"
+    submission: "September 06, 2022 (anywhere on earth)"
+    notification: "September 28, 2022 (anywhere on earth)"
+    camera ready: "To be announced"
     workshopdate: "November 01, 2022 (anywhere on earth)"
-    submissionsite: "https://easychair.org/my/conference?conf=spatialepi21"
+    submissionsite: "https://easychair.org/conferences/?conf=spatialepi22"
 
   speakers:
     # - name: "Amira Roess"
