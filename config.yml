@@ -75,8 +75,7 @@ params:
     pc_chair: ["Taylor Anderson (George Mason University)", 
     "Joon-Seok Kim (Pacific Northwest National Laboratory)", 
     "Amira Roess (George Mason University)"]
-    pc_member: ["To be announced"]
-
+    pc_member: ["Song Gao (University of Wisconsin-Madison)"]
   deadline:
     submission: "September 06, 2022 (anywhere on earth)"
     notification: "September 28, 2022 (anywhere on earth)"
